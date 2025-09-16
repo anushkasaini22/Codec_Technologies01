@@ -6,7 +6,7 @@ Social media data is analyzed to uncover valuable insights about your audience. 
 
 
 
-                               ![SMEI](https://github.com/user-attachments/assets/dfe0bfaa-269f-4b12-a6de-53b4ad18a67a)
+                            ![SME img](https://github.com/user-attachments/assets/d758b39d-eca9-4bb6-9419-46def1d0f46b)
 
 
 
