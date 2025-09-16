@@ -4,8 +4,8 @@ Social media data is analyzed to uncover valuable insights about your audience. 
 
 
 
+<img width="295" height="180" alt="SMEI" src="https://github.com/user-attachments/assets/68e80493-3a4e-4a81-8b80-01d726a4b119" />
 
-     ![SMEI](https://github.com/user-attachments/assets/5f39871e-4390-4a20-836b-a79eff58a593)
 
 
 
