@@ -1,15 +1,11 @@
 # Codec_Technologies01
-Social media data is analyzed to uncover valuable insights about your audience. This video demonstrates how Power BI can be used to create interactive dashboards that visualize these insights, allowing for a deeper understanding of your customer base.
+Social media data is analyzed to uncover valuable insights about your audience. This video demonstrates how Power BI can be used to create interactive dashboards that visualize these insights, allowing for a deeper understanding of your customer
 
 
 
 
 
-
-                            ![SME img](https://github.com/user-attachments/assets/d758b39d-eca9-4bb6-9419-46def1d0f46b)
-
-
-
+     ![SMEI](https://github.com/user-attachments/assets/5f39871e-4390-4a20-836b-a79eff58a593)
 
 
 
@@ -31,3 +27,14 @@ This dashboard helps track and analyze social media engagement metrics like like
 # DASHBOARD
 
 ![Dashboard](https://github.com/user-attachments/assets/457ba732-e777-47f7-8bdf-a7cb61199d74)
+
+
+
+
+
+
+- Dive into the data, discover what drives your audience, and watch your engagement soar! 📈  
+- Unlock the power of insights and turn likes, shares, and comments into smart growth strategies.  
+- Ready to boost your social game? This dashboard is your ultimate engagement sidekick! 🚀  
+- Harness data-driven advice to post smarter, engage better, and grow faster every day.  
+  
