@@ -26,9 +26,10 @@ This dashboard helps track and analyze social media engagement metrics like like
 
 # DASHBOARD
 
-![Dashboard](https://github.com/user-attachments/assets/457ba732-e777-47f7-8bdf-a7cb61199d74)
 
 
+
+![Social engagement  dashboard ](https://github.com/user-attachments/assets/70228637-3da3-432c-b6ad-950c78c3401d)
 
 
 
